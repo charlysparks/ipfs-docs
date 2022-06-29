@@ -6,11 +6,11 @@ description: The home page for developer documentation for IPFS, the InterPlanet
 
 # Welcome to the IPFS docs
 
-The Interplanetary File System (IPFS) is a decentralized file system for building the next generation of the internet. [Filecoin](https://filecoin.io) and many popular Web3 projects are built on IPFS. Some call it the hard drive for blockchain and Web3, though its power extends much further.
+The Interplanetary File System (IPFS) is a decentralized file system for building the next iteration of the internet. [Filecoin](https://filecoin.io) and many popular Web3 projects are built on IPFS. Some call it the hard drive for blockchain and Web3; though its power extends much further.
 
-## Get started
+## Get started with IPFS
 
-Check out these docs to get started with IPFS:
+Check out these docs:
 
 - [What is IPFS?](concepts/what-is-ipfs.md#what-is-ipfs)
 - [Key concepts](concepts/README.md)
@@ -32,7 +32,7 @@ These tools can help you use and build on IPFS more quickly and efficiently — 
 
 ## Host your website on IPFS
 
-Protect yourself from single-point-of-failure risks and benefit from decentralized infrastructure by hosting your static website using IPFS. If you're new to IPFS, this is an excellent place to start learning how to build on the decentralized web.
+Protect yourself from single-point-of-failure risks and benefit from decentralized infrastructure by hosting your static website using IPFS. If you're new to IPFS, this is an excellent place to start learning how to build on the decentralized web with us.
 
 [Start the tutorial →](how-to/websites-on-ipfs/single-page-website.md)
 
@@ -52,7 +52,7 @@ ProtoSchool's self-guided [interactive tutorials](https://proto.school/tutorials
 
 ## See what others are building
 
-Are you looking for inspiration? You can find a huge collection of awesome community projects over at Awesome IPFS.
+Are you looking for inspiration? You can find a huge collection of amazing community projects over at Awesome IPFS.
 
 [Check out Awesome IPFS now →](https://awesome.ipfs.io/)
 
